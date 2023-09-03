@@ -1,0 +1,13 @@
+.container{
+    width: 250px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 200px;
+    background-color: antiquewhite;
+}
+.container p{
+    color: green;
+}
+.container label{
+    color: green;
+}
